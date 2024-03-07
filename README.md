@@ -23,4 +23,4 @@ Bootstrap
 This portfolio was created by me with a focus on clean design and user experience. I'm continually updating and improving it, so feedback is always appreciated.
 
 ## Contact
-For any inquiries or collaborations, please reach out to me at [your email address].
+For any inquiries or collaborations, please reach out to me at [rohankatgave774@gmail.com].
