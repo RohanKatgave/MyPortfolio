@@ -636,7 +636,24 @@ section {
     background-color: #ffb727;
   }
   
-  
+  .progress-bar {
+  height: 100%;
+  width: 0%;
+  transition: width 1s ease-in-out;
+}
+
+.progress-bar[aria-valuenow="100"] {
+  width: 100%;
+}
+
+.progress-bar[aria-valuenow="90"] {
+  width: 90%;
+}
+
+.progress-bar[aria-valuenow="75"] {
+  width: 75%;
+}
+
   
   
   
